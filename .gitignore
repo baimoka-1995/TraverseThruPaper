@@ -1,8 +1,8 @@
 # OS X
-.DS_Store
+**/.DS_Store
 
 # Xcode
-build/
-DerivedData/
-*.xcuserstate
-*.xcuserdata
+**/build/
+**/DerivedData/
+**/*.xcuserstate
+**/*.xcuserdata
