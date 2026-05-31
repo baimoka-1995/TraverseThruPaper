@@ -8,6 +8,7 @@
 
 /* Begin PBXFileReference section */
 		784AD3CD2FCBFA29004CFD54 /* Manu.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Manu.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		785EDFF72FCC1A9B002C5F19 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +33,7 @@
 		784AD3C42FCBFA29004CFD54 = {
 			isa = PBXGroup;
 			children = (
+				785EDFF72FCC1A9B002C5F19 /* .gitignore */,
 				784AD3CF2FCBFA29004CFD54 /* Manu */,
 				784AD3CE2FCBFA29004CFD54 /* Products */,
 			);
